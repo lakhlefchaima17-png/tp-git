@@ -7,7 +7,7 @@ public class Ui {
     private JFrame frame;
 
     public Ui() {
-        frame = new JFrame("Simple UI");
+        frame = new JFrame("SIMPLE UI");
         frame.setSize(400, 300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
