@@ -12,7 +12,7 @@ public class Ui {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
-        JButton button = new JButton("Click Me");
+        JButton button = new JButton("CLIQUE ME");
 
         panel.add(button);
         frame.add(panel);
